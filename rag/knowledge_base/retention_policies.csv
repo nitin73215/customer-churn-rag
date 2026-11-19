@@ -1,0 +1,202 @@
+policy_id,title,category,content
+RET-001,Month-to-Month Contract Conversion Offer,Contract,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers currently using a month-to-month
+contract may be offered an incentive to migrate
+to a one-year contract.
+
+Recommended action:
+Offer a one-year contract with a temporary
+service discount or loyalty credit.
+
+Suitable when:
+- Contract is Month-to-month.
+- Churn risk is medium or high.
+- Customer has not already committed to a
+  long-term contract.
+
+Objective:
+Improve retention by increasing contractual
+commitment.
+
+Do not recommend this policy when the customer
+already has a one-year or two-year contract.
+"
+RET-002,New Customer Early-Life Retention Program,Tenure,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers with tenure of six months or less
+may be enrolled in an early-life retention
+program.
+
+Recommended actions may include:
+- Welcome loyalty credit.
+- Proactive service check-in.
+- Plan review.
+- Setup or onboarding assistance.
+
+Suitable when:
+- Tenure is 0 to 6 months.
+- Customer shows elevated churn risk.
+
+Objective:
+Address dissatisfaction during the customer's
+early relationship with the company.
+"
+RET-003,Online Security Trial,Service,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+An internet customer without online security
+may receive a temporary online-security trial.
+
+Recommended action:
+Offer online security at no additional charge
+for three months, followed by normal pricing.
+
+Suitable when:
+- Customer has internet service.
+- Online security is No.
+- Churn risk is elevated.
+
+Do not apply when online security is already
+included or internet service is unavailable.
+"
+RET-004,Technical Support Retention Offer,Support,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers with internet service but without
+technical support may be offered temporary
+premium technical support.
+
+Recommended action:
+Provide three months of technical-support
+service or a proactive technical health check.
+
+Suitable when:
+- Tech support is No.
+- Customer has internet service.
+- Customer is in a churn-risk segment.
+
+Objective:
+Reduce service-related dissatisfaction and
+increase perceived support quality.
+"
+RET-005,Electronic Payment Migration,Payment,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers using electronic check may be
+encouraged to move to an automated electronic
+payment method where available.
+
+Recommended action:
+Explain automatic payment options and provide
+a small one-time account credit for successful
+migration.
+
+Suitable when:
+- Payment method is Electronic check.
+- Customer is campaign eligible.
+
+The recommendation should be presented as an
+optional convenience improvement.
+"
+RET-006,High-CLTV Priority Retention,Value,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers with high customer lifetime value
+and elevated churn risk should receive priority
+retention attention.
+
+Recommended actions:
+- Prioritized human outreach.
+- Personalized plan review.
+- Loyalty credit where appropriate.
+- Escalation to a retention specialist.
+
+Suitable when:
+- Customer has high CLTV relative to the
+  customer population.
+- Customer is campaign eligible or high risk.
+
+Objective:
+Prioritize retention resources according to
+both churn risk and customer value.
+"
+RET-007,Fiber Service Experience Review,Internet,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+High-risk fiber-optic customers may receive a
+proactive service-experience review.
+
+Recommended actions:
+- Review recent service experience.
+- Verify service configuration.
+- Offer technical assistance where needed.
+- Review whether the current plan matches the
+  customer's requirements.
+
+Suitable when:
+- Internet service is Fiber optic.
+- Churn probability is elevated.
+
+Do not assume that fiber service itself caused
+the customer's churn risk.
+"
+RET-008,High Monthly Charge Plan Review,Billing,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers with relatively high monthly charges
+and elevated churn risk may receive a plan
+optimization review.
+
+Recommended action:
+Compare the customer's active services with
+available plan configurations and identify
+unnecessary or poorly matched services.
+
+Suitable when:
+- Monthly charge is high relative to the
+  customer population.
+- Customer is campaign eligible.
+
+The system must not invent a discount amount
+that is not present in the policy knowledge
+base.
+"
+RET-009,Long-Term Contract Loyalty Program,Loyalty,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Customers already on one-year or two-year
+contracts should not be recommended the
+month-to-month conversion offer.
+
+For elevated-risk long-term customers,
+recommended actions include:
+- Loyalty acknowledgement.
+- Service review.
+- Support check-in.
+- Plan optimization.
+
+Suitable when:
+- Contract is One year or Two year.
+- Customer has elevated churn risk.
+"
+RET-010,Low-Risk Customer Handling,Campaign,"
+PROJECT DEMONSTRATION POLICY — SYNTHETIC.
+
+Low-risk customers should generally not receive
+costly retention incentives solely because a
+prediction system exists.
+
+Recommended action:
+Continue standard engagement and customer
+service.
+
+Suitable when:
+- Customer is classified as Low Risk.
+- Customer is not campaign eligible.
+
+Objective:
+Avoid unnecessary retention spending.
+"

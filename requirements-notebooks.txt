@@ -1,0 +1,6 @@
+# Additional packages used by the analysis, explainability, and RAG notebooks.
+matplotlib
+shap
+chromadb
+ollama
+numba

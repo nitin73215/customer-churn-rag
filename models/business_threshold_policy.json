@@ -1,0 +1,19 @@
+{
+    "model_name": "XGBoost",
+    "probability_source": "Sigmoid calibrated",
+    "analytical_threshold": 0.09,
+    "analytical_threshold_purpose": "Recall-focused F2 classification",
+    "campaign_capacity_rate": 0.3,
+    "campaign_threshold": 0.3739994757644274,
+    "high_risk_capacity_rate": 0.1,
+    "high_risk_threshold": 0.7099864630383537,
+    "threshold_selection_data": "Training out-of-fold predictions only",
+    "holdout_usage": "Evaluation only",
+    "risk_segments": {
+        "Low Risk": "p < 0.090000",
+        "Watchlist": "0.090000 <= p < 0.373999",
+        "Medium Risk": "0.373999 <= p < 0.709986",
+        "High Risk": "p >= 0.709986"
+    },
+    "created_at_utc": "2026-08-08T21:24:30.841439+00:00"
+}

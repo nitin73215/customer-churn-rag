@@ -1,0 +1,2 @@
+probability_model,roc_auc,pr_auc,brier_loss,log_loss,mean_predicted_probability,actual_churn_rate
+Sigmoid calibrated,0.855800976517089,0.670988343416376,0.13382096945756478,0.4137152943808205,0.26593852035502424,0.2654364797728886
